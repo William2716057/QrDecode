@@ -13,3 +13,4 @@ if __name__ == "__main__":
         print("Decoded QR code:", decoded_text)
     else:
         print("Computer says no")
+        
